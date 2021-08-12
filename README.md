@@ -1,4 +1,4 @@
-<h1><p align= "center">Gallery-Burton V1.5</p></h1>
+K<h1><p align= "center">Gallery-Burton V1.5</p></h1>
 <h3><p align= "center">The Easiest Way To Gallery Hacking </p></h3><br>
 
 <h4><p align = "center">* Tool By Pinindu Tharushan * <p><h4>
@@ -59,7 +59,7 @@ Contact Me On <br><br>
         
 ```pkg intall git -y ```
         
-```git clone https://github.com/john-kener/Gallery-Burton ```
+```git clone https://github.com/Pinindu-Tharushan/Gallery-Burton ```
         
 ```cd Gallery-Burton ```
         
