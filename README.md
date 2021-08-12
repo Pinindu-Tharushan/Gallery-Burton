@@ -11,7 +11,7 @@ Contact Me On <br><br>
 </br>
 <hr />
 <p align="center">
-<img src="https://github.com/Pinindu-Tharushan/Gallery-Burton/blob/main/Seeker.jpg" alt="Tool Home Image " width="260" height="260"/>
+<img src="https://github.com/Pinindu-Tharushan/Gallery-Burton/blob/main/Seeker.jpg" alt="Tool Home Image " width="8"/>
 </p>
 </div>
 
