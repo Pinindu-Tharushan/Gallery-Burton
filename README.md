@@ -40,7 +40,7 @@ Contact Me On <br><br>
 ➽ Creating An Account : https://www.dropbox.com/account
 
 
-➽ Creat A App : https://www.dropbox.com/developers/apps/create?_tk=pilot_lp&_ad=ctabtn1&_camp=create
+➽ Creat An App : https://www.dropbox.com/developers/apps/create?_tk=pilot_lp&_ad=ctabtn1&_camp=create
 
 ➽ Getting Access Tokens : https://www.dropbox.com/developers/apps/info/vivsj6aumso664n#settings
 
