@@ -61,11 +61,9 @@ Contact Me On <br><br>
         
 ```git clone https://github.com/john-kener/Gallery-Burton ```
         
-```cd Gallery-Seeker ```
+```cd Gallery-Burton ```
         
-```python Seeker-req.py ```
-        
-```python Gallery-seeker.py ```
+```bash install.sh```
         
 ###### [-] Create the ```requirements.py``` file using your dropbox access token...
 
